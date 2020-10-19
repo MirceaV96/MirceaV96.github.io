@@ -4,6 +4,7 @@
 Hello, my name is _Mircea-Vladimir Banceanu_ and I am a student at the Master of Artificial Intelligence, the first year.
 
 <img src="photo.jpg" width="300" height="300">
+
 ## Hobbies
 ```
 My hobbies are:
@@ -14,8 +15,7 @@ My hobbies are:
 ```
 
 ## Follow me on
-```
+
 [Link](https://www.linkedin.com/in/mircea-vladimir-banceanu/) 
 [Link](https://www.facebook.com/mircea.banceanu/)
 [Link](https://www.instagram.com/mirceavladimir/)
-```
