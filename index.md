@@ -2,7 +2,7 @@
 
 ## **About me**
 Hello, my name is _Mircea-Vladimir Banceanu_ and I am a student at the Master of Artificial Intelligence, the first year.
-![Image](photo.jpg | width=300)
+![Image](photo.jpg=250x250)
 ## Hobbies
 ```
 My hobbies are:
