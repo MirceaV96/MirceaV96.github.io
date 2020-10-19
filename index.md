@@ -20,5 +20,4 @@ My hobbies are:
 [src="facebook.png"](https://www.facebook.com/mircea.banceanu/)
 [Link](https://www.instagram.com/mirceavladimir/)
 
-<a href=https://www.facebook.com/mircea.banceanu/">
-<img border="0" alt="Facebook" src="facebook.png" width="100" height="100">
+<a href=https://www.facebook.com/mircea.banceanu/" img border="0" alt="Facebook" src="facebook.png" width="100" height="100">
