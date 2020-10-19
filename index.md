@@ -1,4 +1,4 @@
-# **_Welcome to my first page_**
+# **_Welcome to my first page_** < align = "center">
 
 ## **About me**
 Hello, my name is _Mircea-Vladimir Banceanu_ and I am a student at the Master of Artificial Intelligence, the first year.
