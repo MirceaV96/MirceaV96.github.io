@@ -17,7 +17,7 @@ My hobbies are:
 ## Follow me on
 
 [Link](https://www.linkedin.com/in/mircea-vladimir-banceanu/) 
-[src="facebook.png"](https://www.facebook.com/mircea.banceanu/)
+[<imgsrc="facebook.png" width="100" height="100">](https://www.facebook.com/mircea.banceanu/)
 [Link](https://www.instagram.com/mirceavladimir/)
 
 <a href=https://www.facebook.com/mircea.banceanu/">
