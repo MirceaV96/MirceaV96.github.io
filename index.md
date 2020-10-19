@@ -21,3 +21,6 @@ My hobbies are:
 [<img src="facebook.png" width="80" height="80">](https://www.facebook.com/mircea.banceanu/)
 [<img src="instagram.png" width="80" height="80">](https://www.instagram.com/mirceavladimir/)
 
+body {
+  background: #ff0000;
+}
