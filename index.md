@@ -1,11 +1,12 @@
 # **_Welcome to my first page_** 
 
 ## **About me**
+
 Hello, my name is _Mircea-Vladimir Banceanu_ and I am a student at the Master of Artificial Intelligence, the first year.
 
-<img src="photo.jpg" width="300" height="300">
+<img src="photo.jpg" width="300" height="300" aling="center">
 
-## Hobbies
+## **Hobbies**
 ```
 My hobbies are:
 - music
@@ -14,7 +15,7 @@ My hobbies are:
 - movies
 ```
 
-## Follow me on
+## **Follow me on:**
 
 [<img src="linkedin.png" width="80" height="80">](https://www.linkedin.com/in/mircea-vladimir-banceanu/) 
 [<img src="facebook.png" width="80" height="80">](https://www.facebook.com/mircea.banceanu/)
