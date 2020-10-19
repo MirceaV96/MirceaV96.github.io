@@ -21,4 +21,4 @@ My hobbies are:
 [Link](https://www.instagram.com/mirceavladimir/)
 
 <a href=https://www.facebook.com/mircea.banceanu/">
-<img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
+<img border="0" alt="Facebook" src="facebook.png" width="100" height="100">
